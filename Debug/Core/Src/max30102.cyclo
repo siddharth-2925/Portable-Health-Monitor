@@ -1,0 +1,6 @@
+../Core/Src/max30102.c:10:6:max30102_init	1
+../Core/Src/max30102.c:22:6:max30102_read_fifo	1
+../Core/Src/max30102.c:33:6:max30102_update	3
+../Core/Src/max30102.c:51:13:max30102_write_reg	1
+../Core/Src/max30102.c:56:13:max30102_read_regs	1
+../Core/Src/max30102.c:62:6:maxim_heart_rate_and_oxygen_saturation	1
